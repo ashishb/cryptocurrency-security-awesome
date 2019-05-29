@@ -4,7 +4,7 @@ A collection of resources related to cryptocurrencies security
 
 ## Tools
 
-1. [Pakala](https://github.com/palkeo/pakala) - Offensive vulnerability scanner for ethereum, also see, [https://www.palkeo.com/en/projets/ethereum/stealing_ether.html](Stealing Ethereum using Pakala)
+1. [Pakala](https://github.com/palkeo/pakala) - Offensive vulnerability scanner for ethereum, also see, [Stealing Ethereum using Pakala](https://www.palkeo.com/en/projets/ethereum/stealing_ether.html)
 2. [Karl](https://github.com/cleanunicorn/karl) - A monitor for smart contracts that checks for security vulnerabilities
 3. [Securify](https://github.com/eth-sri/securify) - Security Scanner for Ethereum Smart Contracts
 4. [Mythril](https://github.com/ConsenSys/mythril-classic) - Security analysis tool for EVM bytecode
