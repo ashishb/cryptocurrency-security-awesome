@@ -11,3 +11,4 @@ A collection of resources related to cryptocurrencies security
 5. [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 6. [Slither](https://github.com/crytic/slither) - source code analyzer
 7. [Eveem](http://www.eveem.org/) - Solidity decompiler
+8. [Verisol](https://github.com/microsoft/verisol) - A formal verifier and analysis tool for Solidity Smart Contracts
