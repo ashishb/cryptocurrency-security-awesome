@@ -14,3 +14,4 @@ A collection of resources related to cryptocurrencies security
 8. [Surya](https://github.com/ConsenSys/surya) - Solidity code inspector
 9. [Verisol](https://github.com/microsoft/verisol) - A formal verifier and analysis tool for Solidity Smart Contracts from Microsoft
 10. [Echidna](https://github.com/crytic/echidna) - Ethereum fuzz testing tool
+11. [Benchmark Solidity](https://github.com/Giulio2002/bsol)
